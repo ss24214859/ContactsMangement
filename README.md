@@ -79,7 +79,7 @@ Main Tables:
 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/ss24214859/Course-Abu-Hadhoud.git
+git clone https://github.com/ss24214859/ContactsMangement.git
 ```
 
 2️⃣ Open the solution file in Visual Studio.
@@ -132,7 +132,7 @@ Add your SQL Server connection string.
 
 ## 👨‍💻 Author
 
-**Student**
+**Mohamed Shaaban**
 
 * GitHub: [https://github.com/ss24214859](https://github.com/ss24214859)
 
